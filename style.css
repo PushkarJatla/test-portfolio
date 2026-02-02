@@ -103,6 +103,33 @@ nav {
     margin: 3px 0;
     transition: 0.3s;
 }
+/* Education section */
+#education .card {
+  margin-bottom: 1.5rem;
+}
+
+#education h3 {
+  margin-bottom: 6px;
+}
+
+#education span {
+  display: block;
+  font-weight: 500;
+  color: #bbb;
+  margin-bottom: 4px;
+}
+
+.edu-year {
+  font-size: 0.9rem;
+  color: #999;
+  margin-bottom: 4px;
+}
+
+.edu-cgpa {
+  font-size: 0.95rem;
+  color: #ddd;
+}
+
 
 .hero {
     padding: 70px 20px 80px;
