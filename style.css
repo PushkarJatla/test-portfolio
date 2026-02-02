@@ -12,6 +12,10 @@ body {
   scroll-behavior: smooth;
 }
 
+ul {
+  list-style: none;
+}
+
 header {
   background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
   color: #fff;
@@ -144,6 +148,7 @@ nav {
   font-weight: 500;
   transition: all 0.3s;
   display: inline-block;
+  text-align: center;
 }
 
 .btn:hover {
